@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fa" ; dir="rtl"> 
  <head> 
   <link rel="stylesheet" type="text/css" href="testcss.css"> 
