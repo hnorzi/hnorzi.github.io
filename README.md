@@ -19,7 +19,7 @@
    <del>200,000 ریال</del> 
    <h3>1 ریال</h3> <a href="#"><span style="color:green"><button style="color:blue">خرید اینترنتی</button></span></a> 
  <a href="hnorzi.github.io-next-page
-/README.md/aFile">next-page</a>
+/README.md/">next-page</a>
 
   </div> 
  </body>
