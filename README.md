@@ -18,7 +18,7 @@
    <h2>:قیمت</h2> 
    <del>200,000 ریال</del> 
    <h3>1 ریال</h3> <a href="#"><span style="color:green"><button style="color:blue">خرید اینترنتی</button></span></a> 
- <button href="./next-page/aFile">SubFolder1</a></button>
+ <a href="./next-page/aFile">next-page</a>
 
   </div> 
  </body>
