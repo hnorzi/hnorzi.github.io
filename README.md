@@ -4,7 +4,7 @@
  <head> 
   <link rel="stylesheet" type="text/css" href="testcss.css"> 
 
-<link rel="icon" type="image/x-icon" ; href="https://github.com/hnorzi/Files/blob/d5465e5afa11b5a661b71df21ef3bf0602184feb/Fav-icon/Hnorzi" >
+<link rel="icon" type="image/x-icon" ; href="https://github.com/hnorzi/Files/blob/069dfbf14df5461f828cd1d45ef509c762c97a79/Fav-icon/converted_image.jpg" >
 
  </head> 
  <body style="background-color:lightblue"> 
