@@ -6,7 +6,7 @@
  </head> 
  <body style="background-color:lightblue"> 
   <div> 
-   <img src="https://i.ibb.co/qYWK1L8/IMG-20221220-105447.jpg" alt="Billionair programmer" width="350" border="0"> <a href="https://ibb.co/MkGrNyH" download><button>click to download</button></a> 
+   <img src="https://i.ibb.co/HTx6gLy/IMG-20221220-105447.jpg" alt="Billionair programmer" width="350" border="0"> <a href="https://ibb.co/MkGrNyH" download><button>click to download</button></a> 
    <h1>مشخصات</h1> 
    <p>امیرحسین نوروزی</p> 
    <h2>ویژگی ها</h2> 
