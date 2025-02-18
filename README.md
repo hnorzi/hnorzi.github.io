@@ -4,8 +4,8 @@
  <head> 
   <link rel="stylesheet" type="text/css" href="testcss.css"> 
 
-<link rel="icon" type="image/x-icon" ; href="https://github.com/hnorzi/Files/blob/069dfbf14df5461f828cd1d45ef509c762c97a79/Fav-icon/converted_image.jpg" >
-
+<link rel="icon" type="image/x-icon"
+     href="https://raw.githubusercontent.com/hnorzi/Files/refs/heads/main/Fav-icon/converted_image.jpg">
  </head> 
  <body style="background-color:lightblue"> 
   <div> 
