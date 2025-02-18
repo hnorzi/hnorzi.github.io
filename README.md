@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="testcss.css"> 
 
 <link rel="icon" type="image/x-icon"
-     href="https://raw.githubusercontent.com/hnorzi/Files/refs/heads/main/Fav-icon/converted_image.jpg">
+     href="https://raw.githubusercontent.com/hnorzi/Files/refs/heads/main/Fav-icon/converted_image.jpg/favicon.ico">
  </head> 
  <body style="background-color:lightblue"> 
   <div> 
