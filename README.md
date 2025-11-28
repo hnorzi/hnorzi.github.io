@@ -2,6 +2,8 @@
  <html>
    <head>
      <link rel="stylesheet" href="Index.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8648044854055589"
+     crossorigin="anonymous"></script>
    </head>
      <body>
        <div>
